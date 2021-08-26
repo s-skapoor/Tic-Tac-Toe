@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+    border-style:dotted;
+    background-image: url("https://th.bing.com/th/id/OIP.DMXnMHsD05lsrAYiWEIqZwHaEK?pid=ImgDet&rs=1");
+    margin-bottom: 20px;
+}
+#button1{
+    height:50px;
+    width:50px;
+}
+#buttonpara1{
+    height:90px;
+    width:3px;
+    background-color:gray;
+}
+#button2{
+    height:50px;
+    width:50px;
+}
+#buttonpara2{
+    height:90px;
+    width:3px;
+    background-color:gray;
+}
+#button3{
+    height:50px;
+    width:50px;
+}
+#buttonpara3{
+    height:3px;
+    width:230px;
+    background-color:gray;
+}
+#paragraph{
+    font-size:35px;
+    font-family:monospace;
+}
+#button4{
+    height:50px;
+    width:50px;
+}
+#buttonpara4{
+    height:90px;
+    width:3px;
+    background-color:gray;
+}
+#button5{
+    height:50px;
+    width:50px;
+}
+#buttonpara5{
+    height:90px;
+    width:3px;
+    background-color:gray;
+}
+#button6{
+    height:50px;
+    width:50px;
+}
+#b{
+    height:3px;
+    width:230px;
+    background-color:gray;
+}
+#b7{
+    height:50px;
+    width:50px;
+}
+#buttonpara7{
+    height:90px;
+    width:3px;
+    background-color:gray;
+}
+#b8{
+    height:50px;
+    width:50px;
+}
+#buttonpara8{
+    height:90px;
+    width:3px;
+    background-color:gray;
+}
+#b9{
+    height:50px;
+    width:50px;
+}
